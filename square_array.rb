@@ -10,5 +10,5 @@ end
 
 def square_array
   array = [3, 8, 11]
-  numbers.each do {|array| new_numbers = numbers ** 2 
+  numbers.each{|array| new_numbers = numbers ** 2 
 end
