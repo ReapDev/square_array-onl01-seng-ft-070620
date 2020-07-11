@@ -3,4 +3,5 @@ def square_array(array)
   new_array[]
   num.each.do |array| 
     puts new_numbers = num ** 2
+  end
 end
