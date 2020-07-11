@@ -1,6 +1,6 @@
 def square_array(array)
   new_array = []
-  puts collect 
+  puts "collect array
   array.each do |numbers| 
   puts new_array << numbers ** 2
   end
